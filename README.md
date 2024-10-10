@@ -31,10 +31,13 @@ My name is Andres Lara, I am currently a fourth year undergraduate student study
 
 ### External Links :
 <div>
-  <a href="www.linkedin.com/in/alara21" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-    Connect with me on LinkedIn !!
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/alara21" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+    </a>
+    <br>
+    <strong>Connect with me on LinkedIn !!</strong>
+   </p>
 </div>
 
 <!--
