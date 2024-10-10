@@ -1,11 +1,16 @@
 ## Welcome To My Profile
+<style>
+   .paragraph1 {
+    font-size: 18px;
+  }
+</style>
 <div>
-  <h3>
+  <p class="paragraph1">
     My name is Andres Lara, I am currently a fourth year undergraduate student studying Computer Science. My main interests are programming software, electrical components, cyber security, and helping grow interest in the Computer Science field as a whole. The repositories on my profile include both programming assignments from classes, as well as personal projects for certain languages or tools of interest.
     <br>
     <br>
     <br>
-  </h3>
+  </p>
 </div>
 
 
@@ -44,9 +49,9 @@
 ## External Links :
 <div>
   <p>
-    <strong>Connect with me on LinkedIn  </strong>
+    <Strong>Connect with me on LinkedIn    </Strong>
     <a href="https://www.linkedin.com/in/alara21" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="25" height="25"/>
     </a>
     <br>
     <br>
