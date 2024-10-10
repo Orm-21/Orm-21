@@ -44,7 +44,7 @@
 ## External Links :
 <div>
    <Strong style="display:inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="3-"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/>&nbsp;
       <a src="https://www.linkedin.com/in/alara21">Connect with me on LinkedIn</a>
       <br>
    </Strong>
