@@ -48,7 +48,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
     </a>
     <br>
-    <strong style="font-size:160%;">Connect with me on LinkedIn !!</strong>
+    <strong>Connect with me on LinkedIn !!</strong>
+    <br>
+    <Strong>IMB Accelerate Credential - </Strong>
+    <Strong href="https:https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url//">Software Developer</Strong>
    </p>
 </div>
 
