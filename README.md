@@ -1,6 +1,6 @@
 ## Hello There 
 <div>
-  <p style="font-size:180%;" style="text-align:center;">
+  <p style="font-size:14px;" style="text-align:center;">
     My name is Andres Lara, I am currently a fourth year undergraduate student studying Computer Science. My main interests are programming software, electrical components, cyber security, and helping grow interest in the Computer Science field as a whole. The repositories on my profile include both programming assignments from classes, as well as personal projects for certain languages or tools of interest.
     <br>
     <br>
