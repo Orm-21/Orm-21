@@ -1,7 +1,9 @@
 ## Hello There 
-
-My name is Andres Lara, I am currently a fourth year undergraduate student studying Computer Science. My main interests are programming software, electrical components, cyber security, and helping grow interest in the Computer Science field as a whole. The repositories on my profile include both programming assignments from classes, as well as personal projects for certain languages or tools of interest.
-
+<div>
+  <p style="font-size:150%;">
+    My name is Andres Lara, I am currently a fourth year undergraduate student studying Computer Science. My main interests are programming software, electrical components, cyber security, and helping grow interest in the Computer Science field as a whole. The repositories on my profile include both programming assignments from classes, as well as personal projects for certain languages or tools of interest.
+  </p>
+</div>
 
 
 ## Skills and Tools
@@ -16,13 +18,12 @@ My name is Andres Lara, I am currently a fourth year undergraduate student study
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
 </div>
 
 ### :hammer_and_wrench: Tools and Applications :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
@@ -33,7 +34,7 @@ My name is Andres Lara, I am currently a fourth year undergraduate student study
 <div>
   <p>
     <a href="https://www.linkedin.com/in/alara21" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
     </a>
     <br>
     <strong>Connect with me on LinkedIn !!</strong>
