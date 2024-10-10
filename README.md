@@ -1,11 +1,11 @@
-## Hello There 
+## Welcome To My Profile
 <div>
-  <p style="font-size:14px;" style="text-align:center;">
+  <h3>
     My name is Andres Lara, I am currently a fourth year undergraduate student studying Computer Science. My main interests are programming software, electrical components, cyber security, and helping grow interest in the Computer Science field as a whole. The repositories on my profile include both programming assignments from classes, as well as personal projects for certain languages or tools of interest.
     <br>
     <br>
     <br>
-  </p>
+  </h3>
 </div>
 
 
@@ -44,14 +44,14 @@
 ## External Links :
 <div>
   <p>
+    <strong>Connect with me on LinkedIn  </strong>
     <a href="https://www.linkedin.com/in/alara21" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
     </a>
     <br>
-    <strong>Connect with me on LinkedIn !!</strong>
     <br>
     <Strong>IMB Accelerate Credential - </Strong>
-    <Strong href="https:https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url//">Software Developer</Strong>
+    <a href="https:https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url//">Software Developer</a>
    </p>
 </div>
 
