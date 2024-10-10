@@ -43,15 +43,15 @@
 
 ## External Links :
 <div>
-   <p style="display:inline-block;">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="25" height="25">
-      Connect with me on LinkedIn
-   </p>
+   <Strong style="display:inline-block;">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="3-">&nbsp;
+      <a src="https://www.linkedin.com/in/alara21">Connect with me on LinkedIn</a>
+   </Strong>
     <br>
-    <br>
-    <Strong>IMB Accelerate Credential - </Strong>
-    <a href="https:https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url//">Software Developer</a>
-   </p>
+   <Strong>IMB Accelerate Credential - </Strong>
+   <Strong>
+    <a href="https:https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url//">Software Developer</a>  
+   </Strong>
 </div>
 
 <!--
