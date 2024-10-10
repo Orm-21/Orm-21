@@ -1,8 +1,10 @@
 ## Hello There
 
-## Welcome to my Profile
+My name is Andres Lara, I am currently a fourth year undergraduate student studying Computer Science. My main interests are programming software, electrical components, cyber security, and helping grow interest in the Computer Science field as a whole. The repositories on my profile include both programming assignments from classes, as well as personal projects for certain languages or tools of interest.
 
-### :hammer_and_wrench: Languages and Frameworks :
+## Skills and Tools
+
+### :computer: Languages and Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
