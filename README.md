@@ -41,7 +41,8 @@
 
 ## External Links :
 <div>
-  <Strong style="display:inline-block;">Connect with me on <a src="https://www.linkedin.com/in/alara21">Connect with me on LinkedIn</a></Strong>
+  <Strong style="display:inline-block;">Connect with me on <a href="https://www.linkedin.com/in/alara21">LinkedIn</a></Strong>
+  <br>
   <br>
   <Strong>IBM Accelerate Credential - </Strong>
   <Strong>
