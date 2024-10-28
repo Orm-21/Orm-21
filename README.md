@@ -46,7 +46,7 @@
   <br>
   <Strong>IBM Accelerate Credential - </Strong>
   <Strong>
-    <a href="https:https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url//">Software Developer</a>  
+    <a href="https://www.credly.com/badges/6e7a9d1f-910c-4c46-b92d-b0e1ea85c5dd/public_url">Software Developer</a>  
   </Strong>
 </div>
 
