@@ -10,3 +10,11 @@
     <img src="https://img.shields.io/badge/IBM%20Credential-58A6FF?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Credential"/>
   </a>
 </p>
+
+\`\`\`bash
+$ whoami
+Andres
+role: software/tech professional
+experience: systems support, QA/testing, STEM instruction
+mission: learn tech -> build solutions -> teach others
+\`\`\`
