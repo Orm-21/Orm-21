@@ -31,12 +31,26 @@ mission: learn tech -> build solutions -> teach others
   <img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
+### `$ ls ~/languages`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-21262D?style=for-the-badge&logo=openjdk&logoColor=58A6FF" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=58A6FF" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-21262D?style=for-the-badge&logo=vuedotjs&logoColor=58A6FF" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-21262D?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-21262D?style=for-the-badge&logo=html5&logoColor=58A6FF" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-21262D?style=for-the-badge&logo=css3&logoColor=58A6FF" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-21262D?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="SQL"/>
+</p>
+
 ### `$ ls ~/tools`
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/XCode-58A6FF?style=for-the-badge&logo=xcode&logoColor=white" alt="XCode"/>
-  <img src="https://img.shields.io/badge/Bash-58A6FF?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-58A6FF?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/APIs-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/VS%20Code-21262D?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/XCode-21262D?style=for-the-badge&logo=xcode&logoColor=58A6FF" alt="XCode"/>
+  <img src="https://img.shields.io/badge/Bash-21262D?style=for-the-badge&logo=gnubash&logoColor=58A6FF" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-21262D?style=for-the-badge&logo=powershell&logoColor=58A6FF" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/APIs-21262D?style=for-the-badge" alt="APIs"/>
 </p>
