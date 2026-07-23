@@ -11,9 +11,8 @@
   </a>
 </p>
 
-\`\`\`bash
+\`\`\`yaml
 $ whoami
-Andres
 role: software/tech professional
 experience: systems support, QA/testing, STEM instruction
 mission: learn tech -> build solutions -> teach others
