@@ -11,9 +11,9 @@
   </a>
 </p>
 
-\`\`\`yaml
+```bash
 $ whoami
 role: software/tech professional
 experience: systems support, QA/testing, STEM instruction
 mission: learn tech -> build solutions -> teach others
-\`\`\`
+```
