@@ -39,6 +39,6 @@ mission: learn tech -> build solutions -> teach others
   <img src="https://img.shields.io/badge/XCode-21262D?style=for-the-badge&logo=xcode&logoColor=58A6FF" alt="XCode"/>
   <img src="https://img.shields.io/badge/Bash-21262D?style=for-the-badge&logo=gnubash&logoColor=58A6FF" alt="Bash"/>
   <img src="https://img.shields.io/badge/PowerShell-21262D?style=for-the-badge&logo=powershell&logoColor=58A6FF" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claude&logoColor=58A6FF" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Claude-21262D?style=for-the-badge&logo=claude&logoColor=58A6FF" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/APIs-21262D?style=for-the-badge" alt="APIs"/>
 </p>
