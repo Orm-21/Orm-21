@@ -17,19 +17,6 @@ role: software/tech professional
 experience: systems support, QA/testing, STEM instruction
 mission: learn tech -> build solutions -> teach others
 ```
-### `$ ls ~/languages`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-58A6FF?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Node.js-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-58A6FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-58A6FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-58A6FF?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
 
 ### `$ ls ~/languages`
 
